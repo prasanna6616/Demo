@@ -2,6 +2,5 @@ Welcome to the kitchen recepis
 
 Below is the list.
 pasta
-pizza
 burger
 snacks
